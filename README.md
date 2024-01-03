@@ -15,22 +15,6 @@ This project demonstrates a simple system for handling encrypted data on USB dri
 
 The project comprises three main components:
 
-
-your_project_name/
-├── cmd/
-│   └── main.go
-├── internal/
-│   ├── crypto/
-│   │   └── crypto.go
-│   └── usb/
-│       └── usb.go
-├── visible/
-│   └── visible.go
-└── keys/
-    ├── private.pem
-    └── public.pem
-
-
 1. **Internal Package (`internal/crypto/crypto.go`):** Contains the implementation of the encryption and decryption functions using AES with a 32-bit key.
 
 2. **USB Package (`internal/usb/usb.go`):** Provides a simple USB device listing functionality.
