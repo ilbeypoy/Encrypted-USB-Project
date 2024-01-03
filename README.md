@@ -31,7 +31,7 @@ The project comprises three main components:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ilbeypoy/encrypted-usb-project.git
+    git clone https://github.com/ilbeypoy/Encrypted-USB-Project.git
     ```
 
 2. Change into the project directory:
